@@ -5,28 +5,28 @@
 **manankarani/manankarani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h2 align="center">My Tech Stack:</h2>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
+![JS](https://img.shields.io/badge/Javascript-323330?style=flat&logo=javascript) 
+![Node JS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)  
+<br><br>
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
+<br><br>
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) 
+<br><br>
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032) 
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF) 
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker) 
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) 
+<br><br>
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java) 
 
-<code> ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) </code>
-<code> ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) </code>
-<code> ![JS](https://img.shields.io/badge/Javascript-323330?style=flat&logo=javascript) </code>
-<code> ![Node JS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) </code> 
-<br>
-<code> ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)</code>
-<code> ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)</code>
-<code> ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)</code>
-<br>
-<code> ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)</code>
-<code> ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) </code>
-<code> ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) </code>
-<br>
-<code> ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032) </code>
-<code> ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF) </code>
-<code> ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker) </code>
-<code> ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) </code>
-<br>
-<code> ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white) </code> 
-<code> ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)</code>
-<code> ![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java) </code>
 
 
 <h2 align="center">GitHub Stats:</h2>
