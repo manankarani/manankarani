@@ -21,8 +21,8 @@
 <code> ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) </code>
 <code> ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) </code>
 <code> ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white) </code> 
-<code> ![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) </code> 
-<code> ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)</code>
+<code> ![Node JS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) </code> 
+<code> ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)</code>
 
 
 <h2 align="center">GitHub Stats:</h2>
